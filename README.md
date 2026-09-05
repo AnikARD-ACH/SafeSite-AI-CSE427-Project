@@ -96,37 +96,34 @@ The best-performing model was selected based on overall detection performance.
 ---
 
 # Repository Structure
+
+```
 SafeSite-AI-CSE427-Project/
 
-│
 ├── Safesite AI/
-│ └── CSE427_project2.ipynb
-│
+│   └── CSE427_project2.ipynb
+
 ├── Report/
-│ └── Project report PDF
-│
+│   └── Project report PDF
+
 ├── Results/
-│ ├── Model Comparison.png
-│ ├── confusion_matrix.png
-│ ├── class_distribution.png
-│ │
-│ ├── Table/
-│ │ ├── Safesite_final_dataset_class_distribution_Table.png
-│ │ └── unified_class_distribution_table.png
-│ │
-│ └── detection examples/
-│ ├── val_batch0_pred.jpg
-│ ├── val_batch1_pred.jpg
-│ └── val_batch2_pred.jpg
+│   ├── Model Comparison.png
+│   ├── confusion_matrix.png
+│   ├── class_distribution.png
 │
+│   ├── Table/
+│   │   ├── Safesite_final_dataset_class_distribution_Table.png
+│   │   └── unified_class_distribution_table.png
+│
+│   └── detection examples/
+│       ├── val_batch0_pred.jpg
+│       ├── val_batch1_pred.jpg
+│       └── val_batch2_pred.jpg
+
 ├── README.md
 ├── LICENSE
 └── .gitignore
-
-
-
-
----
+```
 
 # Results
 
